@@ -1,5 +1,5 @@
 import pytest
-from src.square import Square
+from homework2.src.square import Square
 
 
 @pytest.mark.parametrize(

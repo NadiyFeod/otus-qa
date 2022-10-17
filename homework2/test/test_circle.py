@@ -1,5 +1,5 @@
 import pytest
-from src.circle import Circle
+from homework2.src.circle import Circle
 
 
 @pytest.mark.parametrize(

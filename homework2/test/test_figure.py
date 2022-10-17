@@ -1,8 +1,8 @@
 import pytest
-from src.rectangle import Rectangle
-from src.square import Square
-from src.circle import Circle
-from src.triangle import Triangle
+from homework2.src.rectangle import Rectangle
+from homework2.src.square import Square
+from homework2.src.circle import Circle
+from homework2.src.triangle import Triangle
 
 
 @pytest.mark.parametrize(

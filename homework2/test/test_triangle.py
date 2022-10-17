@@ -1,5 +1,5 @@
 import pytest
-from src.triangle import Triangle
+from homework2.src.triangle import Triangle
 
 
 @pytest.mark.parametrize(

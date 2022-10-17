@@ -1,5 +1,5 @@
 from math import pi
-from src.figure import Figure
+from homework2.src.figure import Figure
 
 
 class Circle(Figure):

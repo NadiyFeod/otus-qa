@@ -1,5 +1,5 @@
 import pytest
-from src.rectangle import Rectangle
+from homework2.src.rectangle import Rectangle
 
 
 @pytest.mark.parametrize(
